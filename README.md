@@ -69,9 +69,10 @@ ls bin/
 # rake			update			yarn
 ```
 ```diff
+
 "dependencies": {
-  - "core-js": "^3.1.4",
-  + "core-js": "^2.5.7",
+-   "core-js": "^3.1.4",
++   "core-js": "^2.5.7",
 }
 ```
 ```sh
